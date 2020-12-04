@@ -1,7 +1,7 @@
 # tik-tak-toe-multiplayer
 The classical Tik-tak-toe game in multiplayer version.
 
-This is a primitive tik-tak-toe multiplayer game. I followed the tutorial
+This is a primitive tik-tak-toe multi player game. I followed the tutorial
 from AtiByte ( https://www.youtube.com/channel/UC4L3JyeL7TXQM1f3yD6iVQQ )
 
 You can restart the game by pressing the space button,
